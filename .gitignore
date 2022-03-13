@@ -1,3 +1,6 @@
+#MTG JSON files
+api/resources
+
 # Logs
 logs
 *.log
