@@ -1,0 +1,26 @@
+.header {
+    border-bottom: 1px black solid;
+    text-align: center;
+}
+
+.plot-container {
+    margin-top: 50px;
+    width: 100%;
+    display: inline-block;
+    border-bottom: 1px black solid;
+}
+
+.plot-panel {
+    float: left;
+    margin-right: 10%;
+    margin-left: 20%;
+}
+
+.plot-settings-panel {
+    float: left;
+    margin-left: 10%;
+}
+
+.configuration-container {
+    display: inline-block;
+}
